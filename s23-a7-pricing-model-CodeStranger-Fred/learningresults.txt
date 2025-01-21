@@ -1,0 +1,7 @@
+# range-pricing-model
+What I learned in this project:
+1. Format space \t makes form a table
+2. non duplicate values in the array list
+3. random
+4. Fill in Customer Directory class back and forth linkage
+5. sc
